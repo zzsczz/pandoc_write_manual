@@ -1,0 +1,9 @@
+{
+  "nodes": [
+    "{ProjDir}/c00.md",
+    "{ProjDir}/c01.md"
+  ],
+  "vars": [],
+  "mainfile": "",
+  "unfold": []
+}
